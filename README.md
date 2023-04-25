@@ -1,5 +1,5 @@
 # FINAL-PROJECT-ON-TEST-AUTOMATION-PJ-04-
-1. Протестировать требования.
+1. Протестировать требования. (бъект тестирования: https://b2c.passport.rt.ru)
 
 2. Разработать тест-кейсы (не менее 15). Необходимо применить несколько техник тест-дизайна. https://docs.google.com/spreadsheets/d/1rPViLP1cNn9JEZ_mrWLlyj-XGFWWd3oq7StJyyybNy4/edit?usp=sharing
 
